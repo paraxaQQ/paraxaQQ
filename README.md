@@ -3,6 +3,7 @@
 <p align="center">
   software + security engineer<br>
   founder of <a href="https://actualintel.co">Actual Intelligence LLC</a> + building operational software inside a Fortune 5 company
+  https://paraxa.site/
 </p>
 
 <p align="center">
